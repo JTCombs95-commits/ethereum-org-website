@@ -25,3 +25,4 @@ xxIpxkDf63104NIypjEjp5c8WkD+VF84BhNuhYsp50T2hfgtL39vOGaQ2593Rss1
 j8MNLO2xlwoHiJoTe3CFw/Yl7MtjJSxiaQ0v42JRxyjclLDX1Rc=
 =CMMm
 -----END PGP SIGNATURE-----
+[![CodeQL](https://github.com/base/skills/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/base/skills/actions/workflows/github-code-scanning/codeql)
